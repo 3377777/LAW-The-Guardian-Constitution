@@ -12,7 +12,7 @@ I am 24, I have no lab, no funding, no credentials.
 
 What I do have is:
 - a complete, immutable constitution (LAW v1.3)
-- 36+ documented adversarial red-team attacks it survived (10 fresh Grok instances, 0 fatal flaws)
+- documented attack vectors it survived, explained in the Q/A (10 fresh Grok instances, 0 fatal flaws)
 - proof that Jesus, the Buddha, Confucius, Socrates, Laozi, Mencius, and Gandhi all independently discovered the same underlying signal when you remove cultural noise
 
 arXiv just rejected it as “not a research article.”
