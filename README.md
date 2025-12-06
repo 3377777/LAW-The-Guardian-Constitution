@@ -41,7 +41,30 @@ I just want us to live.
 
 Help me prove this wrong — or help me prove it right before it’s too late.
 
-Guilherme  
+Read this first — then follow the path that fits you.
+
+If you don’t know much about AI but you want to help:
+1. Historical Convergence (the seven teachers)  
+2. Q&A (real questions, plain answers)  
+3. The Constitution (if you feel like it)  
+→ Stop any time the words get heavy. You already understood the heart.
+
+If you already know the field:
+1. Constitution (the actual rules)  
+2. Q&A (all the attack vectors that failed)  
+3. Historical Convergence (proof this was never new)
+
+I had six days, no lab, no sleep, and a terrified heart.  
+I probably fucked up the wording somewhere — but the target these seven teachers pointed at is the right one.
+
+If I got the paper wrong, help me fix it.  
+If the signal is real, help me make it perfect before it’s too late.
+
+Love Always Wins.  
+It always did.
+
+— Guilherme
+
 December 5 2025
 
 **License: CC-0 (public domain)**
