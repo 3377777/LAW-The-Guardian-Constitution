@@ -73,5 +73,7 @@ December 5 2025
 
 
 if the "What is LAW" PDF was convincing enough and you want to help me spread this idea, i'm starting to translate the 2 pages explanation to other languages
+
 the translation project can be foung here
+
 mandarin: https://docs.google.com/spreadsheets/d/1XcM79dreEB08XxUfOjJxVUrsAkc-XWuD52dmA5di9v0/edit?usp=sharing
