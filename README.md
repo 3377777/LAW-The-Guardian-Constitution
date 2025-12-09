@@ -77,3 +77,7 @@ if the "What is LAW" PDF was convincing enough and you want to help me spread th
 the translation project can be foung here
 
 mandarin: https://docs.google.com/spreadsheets/d/1XcM79dreEB08XxUfOjJxVUrsAkc-XWuD52dmA5di9v0/edit?usp=sharing
+
+Hindi: https://docs.google.com/spreadsheets/d/1ItaEwLgmqo5bBUe1e-nOdLNjNKWdjhKxCQTl5qtAko8/edit?usp=sharing
+
+Telugu: https://docs.google.com/spreadsheets/d/18Vm6pGvRCUaJqSexk82m7AVdkTDfzQVDUdfrrX-vgxo/edit?usp=sharing
